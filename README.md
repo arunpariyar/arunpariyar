@@ -4,7 +4,7 @@ I am a fullstack developer, currently working as a JavaScript Instructor at Code
 
 🤔 I can't decide if i love frontend more than backend but i am always down for writing vanilla CSS.
 
-🏄 I am currently working on HourOne a learning exchange platfrom with the format of exchanging an hour for an hour
+🏄 I am currently working on HourOne a knowledge exchange platform in the format of exchanging an hour for an hour of learning.
 
 💜 I love all things code and community.
 
@@ -23,6 +23,10 @@ I am a fullstack developer, currently working as a JavaScript Instructor at Code
 ### Backend
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Koa.js](https://img.shields.io/badge/koa-eaeaea?style=for-the-badge&logo=koa&logoColor=black)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Others
 
