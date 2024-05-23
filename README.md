@@ -21,6 +21,8 @@ Stack: Angular with NgRx | Express with Prisma ORM | PostgreSQL | Hosted on Verc
 #### 🧗‍♂️ HourOne: A knowledge exchange platform in the format of exchanging an hour for an hour of learning.
 Stack: NextJS with Redux | Express with Mongoose ORM | MongoDB | Hosted on Vercel and Render.com 
 
+---
+
 💜 I love all things code and community.
 
 ✨ I am frequently volunteering for React Berlin Meetup and other tech meetups in Berlin.
