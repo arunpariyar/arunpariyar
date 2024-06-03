@@ -3,15 +3,15 @@
 Energetic and social software developer passionate about creating robust and visually appealing web applications.
 
 🧑‍🏫 I am Currently working as a  Senior JavaScript Instructor at Codeworks
-- Teaching: Advanced JavaScript | Unit testing | Data structures | Algorithms | Complexity analysis | Networking (Internet, HTTP, WebSocket) | Back-end frameworks (Node, Express, Koa, GraphQL) | Databases (SQL, MongoDB, Redis) | Advanced HTML and CSS | Front-end frameworks (Angular, React) | Continuous deployment
+Teaching: Advanced JavaScript | Unit testing | Data structures | Algorithms | Complexity analysis | Networking (Internet, HTTP, WebSocket) | Back-end frameworks (Node, Express, Koa, GraphQL) | Databases (SQL, MongoDB, Redis) | Advanced HTML and CSS | Front-end frameworks (Angular, React) | Continuous deployment
  
 ✨ In my free time building: 
 
-📗 CodeLog: A platform for developers to log their insights and learning during project development. 
-- Stack: Angular with NgRx | Express with Prisma ORM | PostgreSQL | Hosted on Vercel and Render.com 
+📗 CodeLog: A platform for developers to log their insights and learning during project development 
+Stack: Angular with NgRx | Express with Prisma ORM | PostgreSQL | Hosted on Vercel and Render.com 
 
-🧗‍♂️ HourOne: A knowledge exchange platform in the format of exchanging an hour for an hour of learning.
-- Stack: NextJS with Redux | Express with Mongoose ORM | MongoDB | Hosted on Vercel and Render.com 
+🧗‍♂️ HourOne: A knowledge exchange platform in the format of exchanging an hour for an hour of learning
+Stack: NextJS with Redux | Express with Mongoose ORM | MongoDB | Hosted on Vercel and Render.com 
 
 💜 I am frequently volunteering for React Berlin Meetup and other tech meetups in Berlin.
 
