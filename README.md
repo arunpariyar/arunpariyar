@@ -23,7 +23,9 @@ Energetic and social software developer passionate about creating robust and vis
 ![Docker](https://img.shields.io/badge/Docker-00979D?style=for-the-badge&logo=Docker&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Koa.js](https://img.shields.io/badge/koa-eaeaea?style=for-the-badge&logo=koa&logoColor=black) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <hr>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arunpariyar&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arunpariyar&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
 
 <!--
