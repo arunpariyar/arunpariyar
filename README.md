@@ -21,10 +21,10 @@ Energetic and social software developer passionate about creating robust and vis
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white) ![Jasmine](https://img.shields.io/badge/Jasmine-DD0031?style=for-the-badge&logo=jasmine&logoColor=white) ![Karma](https://img.shields.io/badge/Karma-DD0031?style=for-the-badge&logo=karma&logoColor=white)  ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-39477F?style=for-the-badge&logo=vitest&logoColor=white) ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 ![Docker](https://img.shields.io/badge/Docker-00979D?style=for-the-badge&logo=Docker&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Koa.js](https://img.shields.io/badge/koa-eaeaea?style=for-the-badge&logo=koa&logoColor=black) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-<br/>
-<br/>
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=arunpariyar&theme=nightowl&hide_border=true)
+<hr>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arunpariyar&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arunpariyar&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
 
 <!--
 **arunpariyar/arunpariyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
