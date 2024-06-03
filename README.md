@@ -1,29 +1,19 @@
-### console.info("🙏 Hey There! I am Arun");
+## console.info("🙏 Hey There! I am Arun");
 
 Energetic and social software developer passionate about creating robust and visually appealing web applications.
 
-Proficient in the JavaScript/TypeScript ecosystem, with hands-on experience in front-end frameworks like React, Angular, and Vue, and back-end frameworks like Express and Koa, along with both SQL and NoSQL databases.
-
-As a quick learner, I embrace the evolving nature of technology and continuously expand my skill set. I thrive in teamwork and collaboration and find the hybrid work model most effective.
-
-If my profile aligns with your collaboration needs, please connect with me and leave a message.
-
-Have a fantastic day! ☀️
-
-#### Currently 🧑‍🏫 Senior JavaScript Instructor at Codeworks
-Teaching: Advanced JavaScript | Unit testing | Data structures | Algorithms | Complexity analysis | Networking (Internet, HTTP, WebSocket) | Back-end frameworks (Node, Express, Koa, GraphQL) | Databases (SQL, MongoDB, Redis) | Advanced HTML and CSS | Front-end frameworks (Angular, React) | Continuous deployment
+🧑‍🏫 I am Currently working as a  Senior JavaScript Instructor at Codeworks
+- Teaching: Advanced JavaScript | Unit testing | Data structures | Algorithms | Complexity analysis | Networking (Internet, HTTP, WebSocket) | Back-end frameworks (Node, Express, Koa, GraphQL) | Databases (SQL, MongoDB, Redis) | Advanced HTML and CSS | Front-end frameworks (Angular, React) | Continuous deployment
  
-#### Also working on 📗 CodeLog: A platform for developers to log their insights and learning during project development. 
-Stack: Angular with NgRx | Express with Prisma ORM | PostgreSQL | Hosted on Vercel and Render.com 
+✨ In my free time building: 
 
-#### Planning to imporve 🧗‍♂️ HourOne: A knowledge exchange platform in the format of exchanging an hour for an hour of learning.
-Stack: NextJS with Redux | Express with Mongoose ORM | MongoDB | Hosted on Vercel and Render.com 
+📗 CodeLog: A platform for developers to log their insights and learning during project development. 
+- Stack: Angular with NgRx | Express with Prisma ORM | PostgreSQL | Hosted on Vercel and Render.com 
 
----
+🧗‍♂️ HourOne: A knowledge exchange platform in the format of exchanging an hour for an hour of learning.
+- Stack: NextJS with Redux | Express with Mongoose ORM | MongoDB | Hosted on Vercel and Render.com 
 
-💜 I love all things code and community.
-
-✨ I am frequently volunteering for React Berlin Meetup and other tech meetups in Berlin.
+💜 I am frequently volunteering for React Berlin Meetup and other tech meetups in Berlin.
 
 🌳 When not coding, I am mostly out in the nature.
 
