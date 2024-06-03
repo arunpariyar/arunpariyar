@@ -2,12 +2,15 @@
 
 Energetic and social software developer passionate about creating robust and visually appealing web applications.
 
-🧑‍🏫 I am Currently working as a  Senior JavaScript Instructor at Codeworks
+🔭 I am currently working as a Senior JavaScript Instructor at Codeworks
 
-✨ In my free time building: 
+✨ In my free time building CodeLog: A platform for developers to log their insights and learning during project development 
 
-- 📗 CodeLog: A platform for developers to log their insights and learning during project development 
-- 🧗‍♂️ HourOne: A knowledge exchange platform in the format of exchanging an hour for an hour of learning
+🌱 I’m currently deeping my knowledge in Angular statemanagment using NgRx.
+
+💬 Ask me about: Fullstack development using JavaScript.
+
+📫 How to reach me: you can email me or connect with me on LinkedIn. 
 
 💜 I am frequently volunteering for React Berlin Meetup and other tech meetups in Berlin.
 
