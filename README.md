@@ -10,15 +10,13 @@ If my profile aligns with your collaboration needs, please connect with me and l
 
 Have a fantastic day! ☀️
 
-### Active Projects
-
-#### 🧑‍🏫 Senior JavaScript Instructor at Codeworks
+#### Currently 🧑‍🏫 Senior JavaScript Instructor at Codeworks
 Teaching: Advanced JavaScript | Unit testing | Data structures | Algorithms | Complexity analysis | Networking (Internet, HTTP, WebSocket) | Back-end frameworks (Node, Express, Koa, GraphQL) | Databases (SQL, MongoDB, Redis) | Advanced HTML and CSS | Front-end frameworks (Angular, React) | Continuous deployment
  
-#### 📗 CodeLog: A platform for developers to log their insights and learning during project development. 
+#### Also working on 📗 CodeLog: A platform for developers to log their insights and learning during project development. 
 Stack: Angular with NgRx | Express with Prisma ORM | PostgreSQL | Hosted on Vercel and Render.com 
 
-#### 🧗‍♂️ HourOne: A knowledge exchange platform in the format of exchanging an hour for an hour of learning.
+#### Planning to imporve 🧗‍♂️ HourOne: A knowledge exchange platform in the format of exchanging an hour for an hour of learning.
 Stack: NextJS with Redux | Express with Mongoose ORM | MongoDB | Hosted on Vercel and Render.com 
 
 ---
