@@ -1,12 +1,14 @@
-### console.info("🙏 Hey There! I am Arun");
+### console.info("Hey There!");
 
-Energetic and social software developer passionate about creating robust and visually appealing web applications.
+I am Arun, a frontend focused full stack developer based in Berlin. 
 
-🔭 I am currently working as a Senior JavaScript Instructor at Codeworks
+I love to create visually appealing, pixel perfect web applications.
 
-✨ In my free time building CodeLog: A platform for developers to log their insights and learning during project development 
+🔭 I am currently open for work. 
 
-🌱 I’m currently deeping my knowledge in Angular statemanagment using NgRx.
+✨ I have and on going side project Stash: A personal finance app, please check out the [repo](https://github.com/arunpariyar/stash_app/) and the site live on aws amplify [here](https://main.d2n81n8tjx6dgr.amplifyapp.com/).
+
+🌱 I’m currently deeping my knowledge of React and React Query.
 
 💬 Ask me about: Fullstack development using JavaScript.
 
