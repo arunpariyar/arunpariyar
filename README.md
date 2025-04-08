@@ -4,11 +4,11 @@ I am Arun, a frontend focused full stack developer based in Berlin.
 
 I love to create visually appealing, pixel perfect web applications.
 
-🔭 I am currently open for work. 
+🔭 I am currently building KultureXplora. 
 
 ✨ I have an going side project 💰Stash: A personal finance app, please check out the [repo](https://github.com/arunpariyar/stash_app/) and the site live on aws amplify [here](https://main.d2n81n8tjx6dgr.amplifyapp.com/).
 
-🌱 I’m currently deeping my knowledge of React and React Query.
+🌱 I’m currently deeping my knowledge of fullstack development.
 
 💬 Ask me about: Fullstack development using JavaScript.
 
