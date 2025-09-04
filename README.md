@@ -4,7 +4,7 @@ I am Arun, a full stack developer based in Berlin.
 
 I love to create visually appealing, pixel perfect robust fullstack web applications.
 
-🔭 I am currently building [Wandar](https://www.gowandar.com/)). 
+🔭 I am currently building [Wandar](https://www.gowandar.com/). 
 
 ✨ I have an going side project 💰Stash: A personal finance app, please check out the [repo](https://github.com/arunpariyar/stash_app/) and the site is live on aws amplify [here](https://main.d2n81n8tjx6dgr.amplifyapp.com/).
 
