@@ -1,16 +1,16 @@
 ### console.info("Hey There!");
 
-I am Arun, a frontend focused full stack developer based in Berlin. 
+I am Arun, a full stack developer based in Berlin. 
 
 I love to create visually appealing, pixel perfect web applications.
 
-🔭 I am currently building KultureXplora. 
+🔭 I am currently building Wandar. 
 
 ✨ I have an going side project 💰Stash: A personal finance app, please check out the [repo](https://github.com/arunpariyar/stash_app/) and the site live on aws amplify [here](https://main.d2n81n8tjx6dgr.amplifyapp.com/).
 
 🌱 I’m currently deeping my knowledge of fullstack development.
 
-💬 Ask me about: Fullstack development using JavaScript.
+💬 Ask me about: Fullstack development using Typescript.
 
 📫 How to reach me: you can email me or connect with me on LinkedIn. 
 
